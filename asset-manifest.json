@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-admin-dashboard-lama/static/css/main.efcbdccb.css",
+    "main.js": "/react-admin-dashboard-lama/static/js/main.098063d2.js",
+    "index.html": "/react-admin-dashboard-lama/index.html",
+    "main.efcbdccb.css.map": "/react-admin-dashboard-lama/static/css/main.efcbdccb.css.map",
+    "main.098063d2.js.map": "/react-admin-dashboard-lama/static/js/main.098063d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efcbdccb.css",
+    "static/js/main.098063d2.js"
+  ]
+}
